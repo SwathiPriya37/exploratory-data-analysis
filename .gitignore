@@ -1,4 +1,9 @@
 # Ignore local data folders
 data/
 Dataset/
-.src\__pycache__
+data_pipeline_project/data/
+data_pipeline_project/outputs/
+**/__pycache__/
+*.py[cod]
+*$py.class
+
